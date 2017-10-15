@@ -1,0 +1,18 @@
+Week 1 Practical aspects of Deep Learning
+  - Setting up your Machine Learning Application
+    - Train / Dev / Test sets
+    - Bias / Variance
+    - Basic Recipe for Machine Learning
+  - Regularizing your neural network    
+    - Regularization
+    - Why regularization reduces overfitting?
+    - Dropout Regularization
+    - Understanding Dropout
+    - Other regularization methods
+  - Setting up your optimization problem    
+    - Normalizing inputs
+    - Vanishing / Exploding gradients
+    - Weight Initialization for Deep Networks
+    - Numerical approximation of gradients
+    - Gradient checking
+    - Gradient Checking Implementation Notes
