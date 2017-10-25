@@ -15,3 +15,8 @@ Notebook for quick search can be found [here](https://ssq.github.io/2017/08/28/C
   - [x] [Initialization](https://github.com/SSQ/Coursera-Ng-Improving-Deep-Neural-Networks-Hyperparameter-tuning-Regularization-and-Optimization/tree/master/Week%201%20PA%201)
   - [x] [Regularization](https://github.com/SSQ/Coursera-Ng-Improving-Deep-Neural-Networks-Hyperparameter-tuning-Regularization-and-Optimization/tree/master/Week%201%20PA%202)
   - [x] [Gradient Checking](https://github.com/SSQ/Coursera-Ng-Improving-Deep-Neural-Networks-Hyperparameter-tuning-Regularization-and-Optimization/tree/master/Week%201%20PA%203)
+- Week 2 Optimization algorithms
+  - Remember different optimization methods such as (Stochastic) Gradient Descent, Momentum, RMSProp and Adam
+  - Use random minibatches to accelerate the convergence and improve the optimization
+  - Know the benefits of learning rate decay and apply it to your optimization
+  - [x] [Optimization](https://github.com/SSQ/Coursera-Ng-Improving-Deep-Neural-Networks-Hyperparameter-tuning-Regularization-and-Optimization/tree/master/Week%202%20PA%201)
