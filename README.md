@@ -1,8 +1,8 @@
 # Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-Course can be found [here](https://www.coursera.org/learn/deep-neural-network)
+Course can be found in [Coursera](https://www.coursera.org/learn/deep-neural-network)
 
-Notebook for quick search can be found [here](https://ssq.github.io/2017/08/28/Coursera%20Ng%20Deep%20Learning%20Specialization%20Notebook/)
+Quiz and answers are collected for quick search in my blog [SSQ](https://ssq.github.io/2017/08/28/Coursera%20Ng%20Deep%20Learning%20Specialization%20Notebook/#Improving-Deep-Neural-Networks-Hyperparameter-tuning-Regularization-and-Optimization)
 
 - Week 1 Practical aspects of Deep Learning
   - Recall that different types of initializations lead to different results
